@@ -18,6 +18,7 @@ I'm currently diving deep into **web development** and **cybersecurity**, explor
 
 **Web Development:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Focus Areas:**  
