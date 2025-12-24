@@ -1,4 +1,4 @@
-# Hi there, I'm Samson Hew (Hew Wee Bo)
+# Hi there
 
 Computer Science student at MMU, specializing in **Cybersecurity**  
 Based in Malaysia  
