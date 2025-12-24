@@ -26,7 +26,7 @@ Cybersecurity | Web Development | Crypto Topics
 
 ## Featured Project
 
-**[EZFlip]((https://github.com/UnderscorePan/EZFlip))** - My final year project from diploma studies
+**[EZFlip](https://github.com/UnderscorePan/EZFlip)** - My final year project from diploma studies
 
 ## Beyond Code
 
