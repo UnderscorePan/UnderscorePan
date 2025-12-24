@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Samson Hew (Hew Wee Bo)
 
-<!--
-**UnderscorePan/UnderscorePan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at MMU, specializing in **Cybersecurity**  
+Based in Malaysia  
+Artist and developer who loves creating things
 
-Here are some ideas to get you started:
+## What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently diving deep into **web development** and **cybersecurity**, exploring how to build secure and functional web applications. I'm also learning about crypto topics and constantly expanding my technical toolkit.
+
+## Technologies & Tools
+
+**Languages:**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Web Development:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Focus Areas:**  
+Cybersecurity | Web Development | Crypto Topics
+
+## Featured Project
+
+**[FavoriteMedia](https://github.com/UnderscorePan/FavoriteMedia)** - My final year project from diploma studies
+
+## Beyond Code
+
+When I'm not coding, you'll find me creating art! Check out my artwork on Twitter [@HunchPan](https://twitter.com/HunchPan)
+
+## Let's Connect
+
+- Email: [hewweebo@gmail.com](mailto:hewweebo@gmail.com)
+- LinkedIn: [Hew Wee Bo](https://www.linkedin.com/in/hew-wee-bo-56058017a/)
+- Twitter: [@HunchPan](https://twitter.com/HunchPan)
+
+---
+
+Always learning, always building. Feel free to reach out if you want to collaborate or just chat about tech and art!
