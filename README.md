@@ -36,7 +36,6 @@ When I'm not coding, you'll find me creating art! Check out my artwork on Twitte
 
 - Email: [hewweebo@gmail.com](mailto:hewweebo@gmail.com)
 - LinkedIn: [Hew Wee Bo](https://www.linkedin.com/in/hew-wee-bo-56058017a/)
-- Twitter: [@HunchPan](https://twitter.com/HunchPan)
 
 ---
 
