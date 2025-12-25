@@ -28,10 +28,6 @@ Cybersecurity | Web Development | Crypto Topics
 
 **[EZFlip](https://github.com/UnderscorePan/EZFlip)** - My final year project from diploma studies
 
-## Beyond Code
-
-When I'm not coding, you'll find me creating art! Check out my artwork on Twitter [@HunchPan](https://twitter.com/HunchPan)
-
 ## Let's Connect
 
 - Email: [hewweebo@gmail.com](mailto:hewweebo@gmail.com)
