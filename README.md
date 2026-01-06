@@ -35,4 +35,3 @@ Cybersecurity | Web Development | Crypto Topics
 
 ---
 
-Always learning, always building. Feel free to reach out if you want to collaborate or just chat about tech and art!
